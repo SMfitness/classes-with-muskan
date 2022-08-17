@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    color: rgb(69, 67, 67);
+    font-style: normal;
+    font-weight: bold;
+
+
+}
+
+frame{
+    position:relative;
+    padding: 20px;
+    background: white;
+    margin: 80px auto;
+    border-top-left-radius: rgb(69, 67, 67);
+
+}
+.lineimg{
+    width: 5%;
+}
+
+.headings{
+    line-height: 0.8;
+}
+
+.innerheading{
+    font-size: 60px;
+}
+.img{
+    width: 50%;
+    margin: 10px;
+}
+
+.facility{
+    color: purple;
+}
+
+p{
+    text-align: left;
+    line-height: 0.5;
+    margin-left: 42%;
+}
+
+.fee{
+    font-size: 20px;
+    color:rgb(69, 67, 67) ;
+}
+.qr{
+    width: 10%;
+    margin-left: 3%;
+}
+.social{
+    text-align: center;
+    line-height: 20;
+}
+.insta{
+    width: 2%;
+    padding-left: 5%;
+}
+.whatsapp{
+    width: 2%;
+    padding-left: 10%;
+}
+.email{
+    padding-left: 5%;
+}
